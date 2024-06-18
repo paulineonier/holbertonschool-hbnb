@@ -14,6 +14,7 @@ holbertonschool-hbnb
 - Authors
 
 # UML Class Diagram
+https://drive.google.com/file/d/14Zph1GY4qaC81Bt8LXIySQLUJ1MMDP1d/view?usp=sharing
 
 # What is the projet HBnB ?
 
